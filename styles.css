@@ -28,7 +28,7 @@ body {
   position: absolute;
   right: 0;
   top: 0;
-  width: 40%;
+  width: 50%;
   height: 100vh;
   z-index: -1;
   border-bottom: 100vh solid #3d3d3d;
@@ -120,7 +120,7 @@ main .container h2 {
 main .container h1 {
   font-size: 3vw;
   margin-bottom: 3rem;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 main .container .text h1 span {
@@ -159,13 +159,13 @@ main .container .text h1 span {
 .line {
   width: 50px;
   height: 2px;
-  border-radius: 5rem;
+  border-radius: 7rem;
   background: #3d3d3d;
 }
 
 main .container .img {
   max-width: 400px;
-  max-height: 500px;
+  max-height: 400px;
   box-shadow: 10 15px 0px rgba(0, 0, 0, 0.621);
 
   border-radius: 60% 60% 60% 60%;
@@ -269,7 +269,7 @@ main .img img {
 }
 
 .education h2 {
-  text-align: center;
+  text-align: left;
   font-size: 80px;
   font-weight: bold;
   margin-bottom: 30px;
