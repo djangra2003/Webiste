@@ -168,7 +168,7 @@ main .container .img {
   max-height: 500px;
   box-shadow: 10 15px 0px rgba(0, 0, 0, 0.621);
 
-  border-radius: 76% 24% 33% 67% / 77% 63% 37% 23%;
+  border-radius: 60% 60% 60% 60%;
   background: var(--primary);
   overflow: hidden;
 
